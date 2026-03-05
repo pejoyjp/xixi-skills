@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Review & Create PR"
+  short_description: "Compare with dev, generate Chinese PR content, run review, and create PR via gh."
+  default_prompt: "Compare the current branch with the latest dev branch, analyze the diff, generate a standardized Chinese PR title and description with code review findings, then push the branch and create a PR using gh if one does not already exist."
