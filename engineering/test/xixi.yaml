@@ -1,5 +1,0 @@
-schema_version: 1
-name: test
-dept: engineering
-description: 'this skill is for output "good morning" '
-entry: prompt.md
