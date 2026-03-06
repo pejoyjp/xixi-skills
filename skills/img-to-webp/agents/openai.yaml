@@ -1,0 +1,4 @@
+interface:
+  display_name: "IMG to WebP"
+  short_description: "Convert JPG/PNG/TIF to WebP with naming-based resize on macOS."
+  default_prompt: "Recursively convert jpg/jpeg/png/TIF to webp on macOS. Apply size presets when file names match supported types and optional -d/-m; otherwise convert only. Keep basename, change extension only, and process subdirectories."
